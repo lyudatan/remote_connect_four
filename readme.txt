@@ -8,3 +8,5 @@ This folder consist of the:
 Arduino source code
 mysql_connect is a web page that receives data from Arduino and stores it in a database
 displayData reads values from tha database and displays them
+
+Instructions available at http://electroniclab.co.uk/blog/2018/07/02/connect-four-game-with-arduino/
